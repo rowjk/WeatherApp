@@ -1,0 +1,28 @@
+{
+    "Asia": [
+        "Bangkok", "Beijing", "Chengdu", "Dubai", "Hong Kong", "Jakarta", 
+        "Kuala Lumpur", "Manila", "Mumbai", "New Delhi", "Osaka", 
+        "Seoul", "Shanghai", "Singapore", "Taipei", "Tokyo"
+    ],
+    "Americas": [
+        "Bogota", "Buenos Aires", "Chicago", "Las Vegas", "Lima", 
+        "Los Angeles", "Mexico City", "Miami", "New York", 
+        "Rio de Janeiro", "San Francisco", "Sao Paulo", "Toronto", 
+        "Vancouver", "Washington"
+    ],
+    "Europe": [
+        "Amsterdam", "Athens", "Barcelona", "Berlin", "Brussels", 
+        "Copenhagen", "Dublin", "Frankfurt", "Istanbul", "Lisbon", 
+        "London", "Madrid", "Milan", "Moscow", "Munich", "Oslo", 
+        "Paris", "Prague", "Rome", "Stockholm", "Vienna", 
+        "Warsaw", "Zurich"
+    ],
+    "Oceania": [
+        "Adelaide", "Auckland", "Brisbane", "Canberra", "Christchurch",
+        "Hobart", "Melbourne", "Perth", "Sydney", "Wellington"
+    ],
+    "Africa": [
+        "Accra", "Addis Ababa", "Algiers", "Cairo", "Cape Town",
+        "Casablanca", "Johannesburg", "Lagos", "Nairobi", "Tunis"
+    ]
+}

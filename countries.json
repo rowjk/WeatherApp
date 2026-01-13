@@ -1,0 +1,18 @@
+{
+    "Taiwan": "tw", "Japan": "jp", "South Korea": "kr", "China": "cn", 
+    "Hong Kong": "hk", "Singapore": "sg", "Vietnam": "vn", "Malaysia": "my",
+    "Philippines": "ph", "Indonesia": "id", "Thailand": "th", "India": "in",
+    "Australia": "au", "New Zealand": "nz",
+    "United States": "us", "United States of America": "us", "USA": "us",
+    "Canada": "ca", "Brazil": "br", "Mexico": "mx", "Argentina": "ar", 
+    "Colombia": "co", "Peru": "pe",
+    "United Kingdom": "gb", "UK": "gb", "Great Britain": "gb",
+    "France": "fr", "Germany": "de", "Italy": "it", "Spain": "es", "Ireland": "ie",
+    "Russia": "ru", "Netherlands": "nl", "Belgium": "be", "Switzerland": "ch",
+    "Austria": "at", "Sweden": "se", "Norway": "no", "Denmark": "dk",
+    "Poland": "pl", "Czech Republic": "cz", "Portugal": "pt", "Greece": "gr",
+    "Turkey": "tr",
+    "Egypt": "eg", "United Arab Emirates": "ae", "South Africa": "za",
+    "Nigeria": "ng", "Kenya": "ke", "Morocco": "ma", "Ethiopia": "et",
+    "Algeria": "dz", "Tunisia": "tn", "Ghana": "gh"
+}
