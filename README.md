@@ -1,7 +1,4 @@
-# WeatherApp
-利用Gemini 3.0進行VibeCoding，以Python及KivyMD開發的Android天氣APP
-# 🌦️ Python Android Weather App (V0.052)
-
+#  Python Android Weather App (V0.052)
 這是一個使用 Python (Kivy/KivyMD) 開發的 Android 天氣應用程式。
 它可以即時查詢全球城市的天氣狀況，並支援繁體中文顯示。
 
