@@ -14,7 +14,7 @@
 - 需開啟網路連線
 
 ## 🛠️ 開發技術 (Tech Stack)
-- **語言**：Python 3.10
+- **語言**：Python 3.10 (Powered By Gemini 3.0 PRO)
 - **框架**：Kivy 2.3.0, KivyMD 1.1.1
 - **API**：WeatherAPI.com
 - **打包工具**：Buildozer (via Google Colab)
